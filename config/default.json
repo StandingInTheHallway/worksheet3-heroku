@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://Hallway:setup@cluster0.txf76la.mongodb.net/?retryWrites=true&w=majority"
+  }
